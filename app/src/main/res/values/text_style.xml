@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="editText">
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textSize">@dimen/font16</item>
+    </style>
+
+    <style name="textView">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font16</item>
+    </style>
+
+    <style name="textViewBold">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textViewBold14">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textViewAbu">
+        <item name="android:textColor">@color/separator</item>
+        <item name="android:textSize">@dimen/font16</item>
+    </style>
+
+    <style name="textViewHeader">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font42</item>
+    </style>
+
+    <style name="textViewHeader2">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font36</item>
+    </style>
+
+    <style name="header">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/font18</item>
+    </style>
+
+    <style name="textViewNama">
+        <item name="android:textColor">@color/Background</item>
+        <item name="android:textSize">@dimen/font20</item>
+    </style>
+
+    <style name="textViewBlood1">
+        <item name="android:textColor">@color/separator</item>
+        <item name="android:textSize">@dimen/font12</item>
+    </style>
+</resources>

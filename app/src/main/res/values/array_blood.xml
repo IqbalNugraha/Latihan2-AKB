@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="daftar_gol_darah">
+        <item>Blood Type</item>
+        <item>Type Blood A</item>
+        <item>Type Blood B</item>
+        <item>Type Blood AB</item>
+        <item>Type Blood O</item>
+    </string-array>
+</resources>
